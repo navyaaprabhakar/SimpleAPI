@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:5000"; // Change after backend deployment
+const API_BASE_URL = "https://greeting-backend.vercel.app/"; // Change after backend deployment
 
 async function getGreeting() {
   const name = document.getElementById("nameInput").value.trim();
