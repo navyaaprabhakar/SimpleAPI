@@ -14,7 +14,7 @@ A lightweight web application with a **Node.js + Express backend** and a **plain
 ## 📂 Project Structure
 
 ```
-simple-api-project/
+SimpleAPI/
 │── backend/            # Node.js + Express backend
 │   ├── server.js       # Express API server
 │   ├── package.json    # Dependencies & scripts
